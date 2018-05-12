@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3274
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26420#The-Convert
 gutenberg_issued: '2008-08-24'
 gutenberg_type: Text
 identifiers:
